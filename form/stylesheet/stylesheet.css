@@ -1,0 +1,33 @@
+* { box-sizing: border-box }
+
+body {
+	background-image: url("https://image.freepik.com/darmowe-wektory/kot-stoi-w-tle-wzoru_1273-148.jpg");
+}
+
+.form-body  {
+	border: 3px dashed white;
+	padding: 5px;
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 2em;
+	opacity: 0.95;
+
+}
+
+.form-inside {
+	padding: 10px;
+}
+
+button {
+	margin-top: 1em;
+	margin-left: 90%;
+}
+
+.rounded-circle {
+	height: 100%;
+	width: 90%;
+	padding: 5px;
+	margin-top: 30%;
+	margin-left: 5%;
+
+}

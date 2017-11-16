@@ -1,0 +1,71 @@
+* { box-sizing: border-box; }
+
+body {
+	background-image: url("https://image.freepik.com/darmowe-wektory/kot-stoi-w-tle-wzoru_1273-148.jpg");
+}
+
+.header {
+	border: 2px dashed white;
+	text-align: center;
+	margin: 1%;
+	padding: 5px;
+	opacity: 0.9;
+
+}
+
+.header-text {
+	font-size: 2em;
+}
+
+
+.head-picture {
+	margin-bottom: 2em;
+}
+
+
+.first {
+	height: 100%;
+	width: 80%;
+}
+
+.second {
+	height: 100%;
+	width: 80%;
+}
+
+.third {
+	height: 100%;
+	width: 80%;
+}
+
+.centered {
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sub-headers {
+	border: 3px dashed white;
+	padding: 5px;
+	width: 85%;
+	margin: 0 auto;
+	margin-top: 2em;
+	opacity: 0.95;
+
+
+}
+
+.text { 
+	font-color: black;
+	padding: 15px;
+	margin: 2em;
+
+}
+
+.image {
+	height: 60%;
+	width: 60%;
+	padding: 5px;
+	margin-top: 0;
+	margin-left: 5%;
+}
