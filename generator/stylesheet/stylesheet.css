@@ -1,0 +1,41 @@
+body {
+
+	background-image: url("https://image.freepik.com/darmowe-wektory/kot-stoi-w-tle-wzoru_1273-148.jpg");
+	/*background-image: url("y tho.jpg");*/
+}
+
+#gif {
+
+	margin: 0 auto;
+	text-align: center;
+}
+
+h1 {
+	color: orange;
+	background-color: grey;
+	text-align: center;
+	opacity: 0.9;
+	width: 20%;
+	margin: 0 auto;
+	border: 3px dashed white;
+/*	border-radius: 2em;*/
+}
+
+.rounded-circle {
+	width: 45%;
+	height: 100%;
+	border-radius: 50% 50%;
+
+}
+
+.image {
+	margin-left: 27%;
+	display: flex;
+	text-align: center;
+}
+
+.center{
+	margin-left: 27%;
+	display: flex;
+	text-align: center
+}
