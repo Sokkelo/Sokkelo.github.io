@@ -7,31 +7,40 @@ body {
 .form-body  {
 	border: 3px dashed white;
 	padding: 5px;
-	width: 50%;
 	margin: 0 auto;
 	margin-top: 2em;
 	opacity: 0.95;
-
 }
 
 .form-inside {
 	padding: 10px;
 }
 
-button {
+/*.btn {
+	margin-left: 43%;
+
+}*/
+
+/*button {
 	margin-top: 1em;
 	margin-left: 90%;
+*/
 }
 
-.rounded-circle {
+/*.rounded-circle {
 	height: 100%;
 	width: 90%;
 	padding: 5px;
-	margin-top: 30%;
-	margin-left: 5%;
+/*	margin-top: 30%;
+	margin-left: 5%;*/
 
-}
+}*/
 
 .center {
+	text-align: center;
+}
+
+.back {
+	background: 2px dashed yellow;
 	text-align: center;
 }
